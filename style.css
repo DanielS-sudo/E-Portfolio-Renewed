@@ -33,4 +33,5 @@ p {
 }
 .nav__link--anchor {
     margin: 0 16px;
+    color: blue;
 }
